@@ -130,7 +130,7 @@ This allows the dashboard to **highlight critical alerts instantly**.
 **Saiprasanna Muppalla**
 
 * Security Analyst | SOC Enthusiast | Blue Team Learner
-* [LinkedIn](linkedin.com/in/muppallasaiprasanna)
+* [LinkedIn](https://www.linkedin.com/in/muppallasaiprasanna/)
 * [GitHub](https://github.com/Saiprasanna888)
 
 ---
