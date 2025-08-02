@@ -119,7 +119,7 @@ This allows the dashboard to **highlight critical alerts instantly**.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](docs/screenshot.png)
+![Dashboard Screenshot](https://github.com/Saiprasanna888/soc-ai-dashboard/blob/ccad89081b99e12bc3a37141de923e44a5516de6/screenshot.png)
 
 > The dashboard updates automatically and displays high-priority alerts with clear visuals.
 
