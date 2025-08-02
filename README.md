@@ -1,10 +1,3 @@
-Absolutely 👍 Saiprasanna — a **clear, professional README** will make your project stand out on GitHub.
-Since you’ve built a **SOC AI Agent Dashboard** with ML + Streamlit, I’ll write a README that explains exactly what you did, why it’s important, and how someone can run it.
-
-Here’s a complete version 👇
-
----
-
 # 🚨 SOC AI Agent Dashboard
 
 This project is a real-time AI-powered **Security Operations Center (SOC) Dashboard**, built to help security analysts monitor, triage, and respond to incidents efficiently.
