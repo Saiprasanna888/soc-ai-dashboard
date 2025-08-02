@@ -8,8 +8,8 @@ from email.mime.text import MIMEText
 
 # ---------------------------
 # Config - Customize this
-DATASET_FILE = 'incident_event_log.csv'  # Your CSV dataset filename
-MODEL_FILE = 'triage_model.joblib'       # File to save/load the ML model
+DATASET_FILE = 'data/incident_event_log.csv'  # Your CSV dataset filename
+MODEL_FILE = 'models/triage_model.joblib'       # File to save/load the ML model
 
 FROM_EMAIL = "sololeveling6868@gmail.com"      # Your Gmail address
 FROM_PASSWORD = "wnit gcdo wdax bonm"          # Your Gmail app password

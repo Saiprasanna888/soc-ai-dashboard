@@ -7,7 +7,7 @@ from datetime import datetime
 from streamlit_autorefresh import st_autorefresh
 
 # Config
-DATASET_FILE = "incident_event_log.csv"
+DATASET_FILE = "data/incident_event_log.csv"
 
 # Auto-refresh every 60 seconds
 count = st_autorefresh(interval=60 * 1000, key="data_refresh")
